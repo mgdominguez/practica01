@@ -12,10 +12,3 @@ echo "probando gif";
 echo "probando gif";
 echo "probando gif";
 echo "probando gif";
-
-echo "probando gif";
-echo "probando gif";
-echo "probando gif";
-echo "probando gif";
-echo "probando gif";
-echo "probando gif";
