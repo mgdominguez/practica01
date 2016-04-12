@@ -7,8 +7,3 @@ for ($index = 0; $index < 10; $index++) {
 }
 
 echo "probando gif";
-echo "probando gif";
-echo "probando gif";
-echo "probando gif";
-echo "probando gif";
-echo "probando gif";
